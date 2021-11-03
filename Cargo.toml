@@ -1,0 +1,11 @@
+[package]
+name = "b45"
+version = "0.1.0"
+edition = "2018"
+author = "lostincode"
+keywords = ["base45"]
+description = "Base45 encoder and decoder"
+license = "MIT"
+repository ="https://github.com/lostinc0de/b45.git"
+
+[dependencies]
